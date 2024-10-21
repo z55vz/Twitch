@@ -1,4 +1,4 @@
-# Towtch - Live Streaming Platform
+# Towtch - Live Streaming Platform        ![A](https://github.com/user-attachments/assets/fb81cbb6-6780-4a1a-b717-8bb7fe7efb29)
 
 Towtch is a cutting-edge live streaming platform designed for creators and audiences to connect in real-time. With an intuitive interface and powerful features, Towtch allows users to broadcast their content, interact with viewers, and build a community around their passions.
 
@@ -112,4 +112,3 @@ Towtch simplifies live streaming, making it easier than ever! You can quickly go
 - [ ] Upcoming Stream ⏳
 
 ---
-![A](https://github.com/user-attachments/assets/fb81cbb6-6780-4a1a-b717-8bb7fe7efb29)
