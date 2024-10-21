@@ -112,4 +112,4 @@ Towtch simplifies live streaming, making it easier than ever! You can quickly go
 - [ ] Upcoming Stream ⏳
 
 ---
-![Example Image](images.jpeg)
+![Example Image](wallpaperbetter (2).jpg)
